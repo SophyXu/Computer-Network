@@ -7,4 +7,8 @@ g++ server.cpp -o server -lws2_32
 ```
 
 # Technology
-Win 32 Socket
+Win32 Socket with the client function of
+- GET File
+- PUT File
+- CD (Change Directory)
+- PWD (Display Current Directory in the Server)
