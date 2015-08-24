@@ -12,3 +12,4 @@ Win32 Socket with the client function of
 - PUT File
 - CD (Change Directory)
 - PWD (Display Current Directory in the Server)
+- Communite with Server
