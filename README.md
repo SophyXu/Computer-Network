@@ -1,12 +1,12 @@
 # Computer-Network
 
-# Run the Application
+## Run the Application
 ```
 g++ client.cpp -o client -lws2_32
 g++ server.cpp -o server -lws2_32
 ```
 
-# Technology
+## Technology
 Win32 Socket with the client function of
 - GET File
 - PUT File
